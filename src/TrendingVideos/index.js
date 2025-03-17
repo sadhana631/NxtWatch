@@ -136,5 +136,3 @@ class TrendingVideos extends Component {
 }
 
 export default TrendingVideos
-
-

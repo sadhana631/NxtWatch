@@ -14,7 +14,7 @@ import {
   ShowPasswordLabel,
   LoginButton,
   SubmitError,
-} from './StyledComponents'
+} from './styledComponents'
 
 class Login extends Component {
   state = {

@@ -84,8 +84,8 @@ class VideoDetailView extends Component {
   }
 
   renderLoadingView = () => (
-    <LoaderContainer data-testid='loader'>
-      <Loader type='ThreeDots' color='#0b69ff' height='50' width='50' />
+    <LoaderContainer data-testid="loader">
+      <Loader type="ThreeDots" color="#0b69ff" height="50" width="50" />
     </LoaderContainer>
   )
 
@@ -136,7 +136,7 @@ class VideoDetailView extends Component {
               <Header />
               <NavigationBar />
               <VideoDetailViewContainer
-                data-testid='videoItemDetails'
+                data-testid="videoItemDetails"
                 bgColor={bgColor}
               >
                 {this.renderVideoDetailView()}
