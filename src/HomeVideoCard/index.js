@@ -1,4 +1,4 @@
-import ThemeAndVideoContext from '../../context/ThemeAndVideoContext'
+import ThemeAndVideoContext from '../Context/ThemeAndVideoContext'
 
 import {
   ListItem,

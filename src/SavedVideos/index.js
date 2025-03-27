@@ -2,7 +2,7 @@ import {CgPlayListAdd} from 'react-icons/cg'
 
 import Header from '../Header'
 import NavigationBar from '../NavigationBar'
-import ThemeAndVideoContext from '../../context/ThemeAndVideoContext'
+import ThemeAndVideoContext from '../Context/ThemeAndVideoContext'
 import TrendingVideoCard from '../TrendingVideoCard'
 
 import {

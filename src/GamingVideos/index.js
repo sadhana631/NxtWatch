@@ -6,7 +6,7 @@ import {SiYoutubegaming} from 'react-icons/si'
 
 import Header from '../Header'
 import NavigationBar from '../NavigationBar'
-import ThemeAndVideoContext from '../../context/ThemeAndVideoContext'
+import ThemeAndVideoContext from '../Context/ThemeAndVideoContext'
 import FailureView from '../FailureView'
 import GameVideoCard from '../GamingVideoCard'
 
@@ -17,7 +17,7 @@ import {
   GamingVideoList,
   GamingText,
   LoaderContainer,
-} from './styledcomponents'
+} from './styledComponents'
 
 const apiStatusConstants = {
   initial: 'INITIAL',

@@ -10,7 +10,7 @@ import GamingVideos from './GamingVideos'
 import SavedVideos from './SavedVideos'
 import NotFound from './NotFound'
 
-import ThemeAndVideoContext from './context/index'
+import ThemeAndVideoContext from './Context/ThemeAndVideoContext'
 
 import './App.css'
 
